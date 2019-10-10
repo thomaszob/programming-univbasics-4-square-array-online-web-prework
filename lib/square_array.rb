@@ -6,4 +6,5 @@ while array[counter] do
   array[counter] = array{counter] ** 2
 end 
 
+retur array
 end
