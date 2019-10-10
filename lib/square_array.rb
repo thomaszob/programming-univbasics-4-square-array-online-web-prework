@@ -7,5 +7,5 @@ while array[counter] do
   counter = counter + 1
 end 
 
-retur array
+return array
 end
